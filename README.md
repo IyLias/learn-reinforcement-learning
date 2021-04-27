@@ -1,2 +1,2 @@
-# learn-deeplearning
-materials of deep learning
+# learn-reinforcement-learning
+materials of reinforcement learning
